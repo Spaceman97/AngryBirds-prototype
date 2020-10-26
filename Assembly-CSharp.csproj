@@ -69,11 +69,10 @@
     <Compile Include="Assets\Scripts\MoveAnimator.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlyerCamera.cs" />
+    <Compile Include="Assets\Scripts\ProjectileLine.cs" />
     <Compile Include="Assets\Scripts\Shoots.cs" />
     <Compile Include="Assets\Scripts\Slingshot.cs" />
     <Compile Include="Assets\Scripts\Zombie.cs" />
-    <Compile Include="Assets\WebSocket\WebSocket.cs" />
-    <Compile Include="Assets\WebSocketExample\Connection.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
