@@ -1,3 +1,3 @@
 # AngryBirds-prototype
 
-![Screenshot](one.jpeg)
+![Screenshot](one.png)
